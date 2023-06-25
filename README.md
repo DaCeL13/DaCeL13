@@ -1,10 +1,11 @@
 # ¡Hola developers! 👋, soy ...
 
-<!--![Daniel Castellanos, database/web developer](https://github.com/DaCeL13/DaCeL13/blob/main/banner.png)-->
-<img src="https://github.com/DaCeL13/DaCeL13/blob/main/banner_github_profile.png" alt="Daniel Castellanos, db/web developer">
+![Daniel Castellanos, database/web developer](https://github.com/DaCeL13/DaCeL13/blob/main/banner_github_profile.png)
 
 ## Sobre mí
-A lo largo de mi vida siempre me he sentido atraído por la tecnología y ver la adaptación del mundo a ella. Es por esto que en 2019 decidí estudiar ingeniería de sistemas en la [Universidad Industrial de Santander](https://uis.edu.co/es/).
+A lo largo de mi vida siempre me he sentido atraído por la tecnología, ver su avance y ver cómo el mundo 🌍 se adapta a ella. Es por esto que en 2019 decidí estudiar ingeniería de sistemas 🧑‍💻 en la [Universidad Industrial de Santander](https://uis.edu.co/es/).<br>
+
+Entre las áreas que me atraen se encuentran:
 
 
 <!--
