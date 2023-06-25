@@ -1,5 +1,7 @@
 # ¡Hola!, soy Daniel Castellanos 👋
-### Desarrollador de base de datos y estudiante de ingeniería de sistemas
+### Desarrollador de base de datos y estudiante de ingeniería de sistemas 
+
+A lo largo de mi vida siempre me he sentido atraído por la tecnología y ver la adaptación del mundo a ella. Es por esto que en 2019 decidí estudiar ingeniería de sistemas en la [Universidad Industrial de Santander](https://uis.edu.co/es/). 
 <!--
 **DaCeL13/DaCeL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
