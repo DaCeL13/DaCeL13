@@ -3,11 +3,13 @@
 ![Daniel Castellanos, database/web developer](https://github.com/DaCeL13/DaCeL13/blob/main/banner_github_profile.png)
 
 ## Sobre mí
-A lo largo de mi vida siempre me he sentido atraído por la tecnología, ver su avance y ver cómo el mundo 🌍 se adapta a ella. Es por esto que en 2019 decidí estudiar ingeniería de sistemas 🧑‍💻 en la [Universidad Industrial de Santander](https://uis.edu.co/es/).<br>
+A lo largo de mi vida siempre me he sentido atraído por la tecnología, ver su avance y ver cómo el mundo 🌍 se adapta a ella. Es por esto que en 2019 decidí estudiar ingeniería de sistemas 🧑‍💻 en la [Universidad Industrial de Santander](https://uis.edu.co/es/). Mi enfoque 🔭 es siempre estar actualizado y aprender constantemente temas y tecnologías del mundo del desarrollo, de manera que no solo cree herramientas que me sean útiles a mí, sino que también puedan aportar valor a los demás 🫂.<br>
 
-Entre las áreas que me atraen se encuentran:
+### Entre las áreas que me atraen se encuentran:
 
-
+- Inteligencia artificial 🤖
+- Desarrollo web 🌐
+- Desarrollo de base de datos 🗄
 <!--
 **DaCeL13/DaCeL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
