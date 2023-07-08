@@ -16,8 +16,9 @@ A lo largo de mi vida siempre me he sentido atraído por la tecnología, ver su 
 - Desarrollo web 🌐
 - Desarrollo de base de datos 🗄
 
-## Tech Stack 
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=black)
 ![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=black)
 <br>
