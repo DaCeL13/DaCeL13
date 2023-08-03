@@ -2,10 +2,10 @@
 
 ![Daniel Castellanos, database/web developer](https://github.com/DaCeL13/DaCeL13/blob/main/banner_github_profile.png)
 
-[![Static Badge](https://img.shields.io/badge/Linkedin-white?logo=Linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/dacel/)
-[![Static Badge](https://img.shields.io/badge/Stack_Overflow-white?logo=stackoverflow&logoColor=%23F58025)](https://es.stackoverflow.com/users/332509/daniel-castellanos)
-[![Static Badge](https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/daniel_castellanos1310/)
-[![Static Badge](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=%231877F2)](https://www.facebook.com/daniel.castellanos.13/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-white?logo=Linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/dacel/)
+[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-white?logo=stackoverflow&logoColor=%23F58025)](https://es.stackoverflow.com/users/332509/daniel-castellanos)
+[![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/daniel_castellanos1310/)
+[![Facebook](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=%231877F2)](https://www.facebook.com/daniel.castellanos.13/)
 
 ## Sobre mí 
 A lo largo de mi vida siempre me he sentido atraído por la tecnología, ver su avance y ver cómo el mundo 🌍 se adapta a ella. Es por esto que en 2019 decidí estudiar ingeniería de sistemas 🧑‍💻 en la [Universidad Industrial de Santander](https://uis.edu.co/es/). Mi enfoque 🔭 es siempre estar actualizado y aprender constantemente temas y tecnologías del mundo del desarrollo, de manera que no solo cree herramientas que me sean útiles a mí, sino que también puedan aportar valor a los demás 🫂.<br>
