@@ -3,8 +3,6 @@
 ![Daniel Castellanos, database/web developer](https://github.com/DaCeL13/DaCeL13/blob/main/banner_github_profile.png)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-white?logo=Linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/dacel/)
-[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-white?logo=stackoverflow&logoColor=%23F58025)](https://es.stackoverflow.com/users/332509/daniel-castellanos)
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/daniel_castellanos1310/)
 [![Facebook](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=%231877F2)](https://www.facebook.com/daniel.castellanos.13/)
 
 ## Sobre mí 
